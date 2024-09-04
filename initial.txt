@@ -1,1 +1,1 @@
-here is the initial
+here is the entry data file which contain name and initial
